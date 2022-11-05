@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "558052253685",
+    "project_id": "fcmtest-a5d89",
+    "storage_bucket": "fcmtest-a5d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558052253685:android:dbcf4a6e1b6a1e30340abc",
+        "android_client_info": {
+          "package_name": "com.example.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558052253685-t7ju449b137aevqj6hu15im4tvkmb1pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWdVD_ToQdh70y9SmJtfTROZKyjinr5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558052253685-t7ju449b137aevqj6hu15im4tvkmb1pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558052253685:android:7fafb371c0e3dd89340abc",
+        "android_client_info": {
+          "package_name": "uz.amirdev.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558052253685-t7ju449b137aevqj6hu15im4tvkmb1pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWdVD_ToQdh70y9SmJtfTROZKyjinr5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558052253685-t7ju449b137aevqj6hu15im4tvkmb1pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
